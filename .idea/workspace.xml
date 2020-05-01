@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f88560-58ea-4131-a9ac-5ba51a417b2d" name="Default Changelist" comment="" />
+    <list default="true" id="d7f88560-58ea-4131-a9ac-5ba51a417b2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/game_in_dots" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bFcKrJOCaNAyJ17DWU6lj35yFB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +46,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\projects\game_in_dots\node_modules\typescript\lib" />
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -64,11 +76,33 @@
       <updated>1588231220348</updated>
       <workItem from="1588231222288" duration="14043000" />
       <workItem from="1588253419033" duration="20327000" />
-      <workItem from="1588314641958" duration="15927000" />
+      <workItem from="1588314641958" duration="16045000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/game_in_dots" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="77" key="SettingsEditor" timestamp="1588330791181">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588330791181" />
   </component>
 </project>

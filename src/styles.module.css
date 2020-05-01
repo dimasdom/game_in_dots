@@ -1,0 +1,42 @@
+.playBt{
+    border-radius: 10%;
+    border:1px solid;
+    color:white;
+    background-color: #7b8d93;
+    height: 2.2em;
+    width:4.4em;
+}
+.playAgain{
+    border-radius: 10%;
+    border:1px solid;
+    color:white;
+    background-color: #7b8d93;
+    height: 2.2em;
+    width:8em;
+}
+.selectG{
+    border:1px solid;
+    background-color: #cfd8dc;
+    color:#aebbc0 ;
+    height:2.2em;
+    width:6.6em;
+    border-radius: 10%;
+}
+.inputG{
+    border:1px solid;
+    color:#a3aeb3;
+    background-color: #f3f3f3;
+    width:6.6em;
+    height:2.2em;
+    border-radius: 6%;
+}
+.leaderBoard{
+    overflow: scroll;
+    color: #b1b1b1;
+    height: 500px;
+}
+.leaderBoardElem{
+    width: 60%;
+    background: #cfd8dc;
+    color: #a7b0b3;
+}
